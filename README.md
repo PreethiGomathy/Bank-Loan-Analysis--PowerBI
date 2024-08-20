@@ -28,6 +28,6 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-![Instagram Clone Data Analysis Dashboard](Dashboard/p1.png)
-![Instagram Clone Data Analysis Dashboard](Dashboard/p2.png)
-![Instagram Clone Data Analysis Dashboard](Dashboard/p3.png)
+![ Dashboard](Dashboard/p1.png)
+![](Dashboard/p2.png)
+![](Dashboard/p3.png)
