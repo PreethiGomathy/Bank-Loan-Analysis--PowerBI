@@ -16,18 +16,17 @@ There are 7 tables: *Users, Photos, Likes, Comments, Follows, Tags, Photo Tags*.
 
 -Total Loan Applications: What is the total number, MTD, and MoM change in loan applications?
 
-- First 10 users on the platform
-- Total number of registrations
-- Total number of posts
-- Number of Sign-ins per Day
-- Inactive users
-- Most likes on a photo
-- Number of photo posted by most active users
-- Most popular tag names by usage
-- Most popular tag names by likes
-- Users who have liked every single photo on the platform 
-- Percentage of users who have either never commented on a photo or likes every photo
-- Total years on the platform
+- Total Loan Applications: Total, MTD, and MoM changes.
+- Total Funded Amount: Total, MTD, and MoM changes.
+- Total Amount Received: Total, MTD, and MoM changes.
+- Average Interest Rate: Average, MTD, and MoM variations.
+- Average Debt-to-Income Ratio (DTI): Average, MTD, and MoM fluctuations.
+- Monthly Trends by Issue Date: Seasonality and long-term trends.
+- Regional Analysis by State: Significant lending activity and regional disparities.
+- Loan Term Analysis: Distribution of loans by term length.
+- Employee Length Analysis: Lending metrics by employment length.
+- Loan Purpose Breakdown: Metrics by loan purpose.
+- Home Ownership Analysis: Impact of home ownership on loans.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
