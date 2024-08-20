@@ -34,3 +34,5 @@ There are 7 tables: *Users, Photos, Likes, Comments, Follows, Tags, Photo Tags*.
 
 
 ![Instagram Clone Data Analysis Dashboard](Dashboard/p1.png)
+![Instagram Clone Data Analysis Dashboard](Dashboard/p2.png)
+![Instagram Clone Data Analysis Dashboard](Dashboard/p3.png)
