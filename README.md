@@ -13,17 +13,21 @@ There are 7 tables: *Users, Photos, Likes, Comments, Follows, Tags, Photo Tags*.
 ### - Exploration Questions <br />
  
 **The following questions are explored in this case study:**
+
 -Total Loan Applications: What is the total number, MTD, and MoM change in loan applications?
--Total Funded Amount: What is the total amount funded, MTD, and MoM change?
--Total Amount Received: What is the total received, MTD, and MoM change?
--Average Interest Rate: What is the average rate, MTD, and MoM variation?
--Average Debt-to-Income Ratio (DTI): What is the average DTI, MTD, and MoM fluctuation?
--Monthly Trends by Issue Date (Line Chart): Shows seasonality and long-term trends in lending activities.
--Regional Analysis by State (Filled Map): Identifies regions with significant lending activity and assesses regional disparities.
--Loan Term Analysis (Donut Chart): Displays the distribution of loans across various term lengths.
--Employee Length Analysis (Bar Chart): Assesses how lending metrics vary by borrowers' employment lengths.
--Loan Purpose Breakdown (Bar Chart): Breaks down loan metrics by stated loan purposes.
--Home Ownership Analysis (Tree Map): Hierarchically views the impact of home ownership on loan applications and disbursements.
+
+- First 10 users on the platform
+- Total number of registrations
+- Total number of posts
+- Number of Sign-ins per Day
+- Inactive users
+- Most likes on a photo
+- Number of photo posted by most active users
+- Most popular tag names by usage
+- Most popular tag names by likes
+- Users who have liked every single photo on the platform 
+- Percentage of users who have either never commented on a photo or likes every photo
+- Total years on the platform
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
