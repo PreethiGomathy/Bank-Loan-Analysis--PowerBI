@@ -1,19 +1,17 @@
 # Project Overview
 
-*This project uses SQL for data extraction and Power BI for visualization to analyze lending metrics like loan applications and funded amounts. It provides insights into trends, regional disparities, and borrower characteristics to assess loan performance.*
+*This project uses SQL to extract lending data and Power BI to create visualizations. It tracks key metrics like loan applications and funded amounts, and helps identify trends, regional differences, and borrower patterns.*
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ## Data and Exploration
 
 ### - Dataset <br />
 
-The database **`finanical_loan.csv`** 
+ **`finanical_loan.csv`** 
 
 ### - Exploration Questions <br />
  
 **The following questions are explored in this case study:**
-
--Total Loan Applications: What is the total number, MTD, and MoM change in loan applications?
 
 - Total Loan Applications: Total, MTD, and MoM changes.
 - Total Funded Amount: Total, MTD, and MoM changes.
