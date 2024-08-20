@@ -7,8 +7,7 @@
 
 ### - Dataset <br />
 
-The database **`ig_clone`** is created using SQL. <br />
-There are 7 tables: *Users, Photos, Likes, Comments, Follows, Tags, Photo Tags*.
+The database **`finanical_loan.csv`** 
 
 ### - Exploration Questions <br />
  
