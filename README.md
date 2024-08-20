@@ -1,6 +1,6 @@
 # Project Overview
 
-*This MySQL project is a cloned mimic version of Instagram's database. It is used to perform data analysis for real world business related questions and scenarios. MySQL is the language used to create the database and analyse it. And Tableau is used to visualize the dataset.*
+*This project uses SQL for data extraction and Power BI for visualization to analyze lending metrics like loan applications and funded amounts. It provides insights into trends, regional disparities, and borrower characteristics to assess loan performance.*
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ## Data and Exploration
